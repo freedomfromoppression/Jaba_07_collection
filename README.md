@@ -1,4 +1,4 @@
-# Jaba_07_collection
+# Java_07_collection
 package ch08_collection;
 
 import java.lang.StackWalker.Option;
